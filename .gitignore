@@ -1,0 +1,22 @@
+# --- C++ ---
+# Executáveis e arquivos de objeto
+*.exe
+*.o
+*.obj
+programa
+programa.exe
+
+# --- Python ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
